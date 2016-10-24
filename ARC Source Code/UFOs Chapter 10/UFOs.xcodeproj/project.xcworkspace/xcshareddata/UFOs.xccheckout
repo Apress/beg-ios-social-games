@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5BDEB380-0B31-48EC-89BF-E856EFBE8698</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UFOs</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>784AC45A-9B14-4851-BB1E-D621BDD16A97</key>
+		<string>ssh://github.com/dfsw/UFOs.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UFOs.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>784AC45A-9B14-4851-BB1E-D621BDD16A97</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/dfsw/UFOs.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>784AC45A-9B14-4851-BB1E-D621BDD16A97</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>784AC45A-9B14-4851-BB1E-D621BDD16A97</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UFOs Chapter 10</string>
+		</dict>
+	</array>
+</dict>
+</plist>

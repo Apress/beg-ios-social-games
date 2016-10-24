@@ -1,0 +1,729 @@
+TUFOs
+v7
+r0
+t319591468.057254
+cCheck dependencies
+cProcessInfoPlistFile "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Info.plist" UFOs-Info.plist
+cCompileXIB "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.xib"
+cCompileXIB "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.xib"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Cow1.png "Art Assets/Cow1.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Cow2.png "Art Assets/Cow2.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Cow3.png "Art Assets/Cow3.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Cow1Reversed.png "Art Assets/Cow1Reversed.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Cow2Reversed.png "Art Assets/Cow2Reversed.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Cow3Reversed.png "Art Assets/Cow3Reversed.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Grass.png "Art Assets/Grass.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Sky.png "Art Assets/Sky.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/UFO.png "Art Assets/UFO.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Saucer1.png "Art Assets/Saucer1.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Saucer2.png "Art Assets/Saucer2.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/SaucerBankL1.png "Art Assets/SaucerBankL1.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/SaucerBankL2.png "Art Assets/SaucerBankL2.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/SaucerBankR1.png "Art Assets/SaucerBankR1.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/SaucerBankR2.png "Art Assets/SaucerBankR2.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Tractor1.png "Art Assets/Tractor1.png"
+cCpResource build/Debug-iphonesimulator/UFOs.app/Tractor2.png "Art Assets/Tractor2.png"
+cCompileXIB "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/MainWindow.xib"
+cCompileXIB "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.xib"
+cProcessPCH /var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch.gch UFOs_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/main.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOAppDelegate.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOViewController.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOGameViewController.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/GameCenterManager.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/../GameCenterManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOLeaderboardViewController.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs" normal i386
+cGenerateDSYMFile "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app.dSYM" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs"
+cTouch "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"
+
+N/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004CC65698000000000017E520
+t1288066712
+s1565984
+
+N/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004CC656840000000000000348
+t1288066692
+s840
+
+N/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow1.png
+c000000004CEC796B0000000000000220
+t1290565995
+s544
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow1Reversed.png
+c000000004CED7AA100000000000005C4
+t1290631841
+s1476
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow2.png
+c000000004CEC79760000000000000219
+t1290566006
+s537
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow2Reversed.png
+c000000004CED7AAF00000000000005BE
+t1290631855
+s1470
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow3.png
+c000000004CEC797D0000000000000218
+t1290566013
+s536
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow3Reversed.png
+c000000004CED7AA800000000000005BA
+t1290631848
+s1466
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Grass.png
+c000000004CEC799700000000000009FE
+t1290566039
+s2558
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Saucer1.png
+c000000004CECB03B0000000000000330
+t1290580027
+s816
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Saucer2.png
+c000000004CECB037000000000000033A
+t1290580023
+s826
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankL1.png
+c000000004CECACE40000000000000D8D
+t1290579172
+s3469
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankL2.png
+c000000004CECACEC0000000000000D96
+t1290579180
+s3478
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankR1.png
+c000000004CECACF70000000000000DCF
+t1290579191
+s3535
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankR2.png
+c000000004CECAD000000000000000DB3
+t1290579200
+s3507
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Sky.png
+c000000004CEC79A20000000000001535
+t1290566050
+s5429
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Tractor1.png
+c000000004CECAF9200000000000003ED
+t1290579858
+s1005
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Tractor2.png
+c000000004CECAF9A0000000000000406
+t1290579866
+s1030
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/UFO.png
+c000000004CE8EBC800000000000002BA
+t1290333128
+s698
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/../GameCenterManager.m
+c000000004D599F95000000000000170C
+t1297719189
+s5900
+i"GameCenterManager.h"
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOAppDelegate.h
+c000000004CF2CF8200000000000001E3
+t1290981250
+s483
+i<UIKit/UIKit.h>
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOAppDelegate.m
+c000000004CF2CF82000000000000034A
+t1290981250
+s842
+i"UFOAppDelegate.h"
+i"UFOViewController.h"
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.h
+c000000004D543CA600000000000003F2
+t1297366182
+s1010
+i<UIKit/UIKit.h>
+i"GameCenterManager.h"
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.m
+c000000004D5C24760000000000001F04
+t1297884278
+s7940
+i"UFOGameViewController.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.xib
+c000000004D54371C000000000000413F
+t1297364764
+s16703
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.h
+c000000004D5994CC00000000000002DA
+t1297716428
+s730
+i<UIKit/UIKit.h>
+i"GameCenterManager.h"
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.m
+c000000004D59A50C0000000000000EF6
+t1297720588
+s3830
+i"UFOLeaderboardViewController.h"
+i"GameCenterManager.h"
+i<GameKit/GameKit.h>
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.xib
+c000000004D5892C70000000000006EAC
+t1297650375
+s28332
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.h
+c000000004D5838CA0000000000000222
+t1297627338
+s546
+i<UIKit/UIKit.h>
+i"GameCenterManager.h"
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.m
+c000000004D59A5B60000000000000D96
+t1297720758
+s3478
+i"UFOViewController.h"
+i"UFOGameViewController.h"
+i"UFOLeaderboardViewController.h"
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.xib
+c000000004D5839850000000000005CFC
+t1297627525
+s23804
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/GameCenterManager.h
+c000000004D59A0D3000000000000072F
+t1297719507
+s1839
+i<Foundation/Foundation.h>
+i<GameKit/GameKit.h>
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/MainWindow.xib
+c000000004CF2D09E0000000000006234
+t1290981534
+s25140
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/UFOs_Prefix.pch
+c000000004CF2D00400000000000000B1
+t1290981380
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app
+t1297898668
+s884
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app.dSYM
+t1297898668
+s102
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Cow1.png
+t1297898665
+s544
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Cow1Reversed.png
+t1297898665
+s1476
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Cow2.png
+t1297898665
+s537
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Cow2Reversed.png
+t1297898665
+s1470
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Cow3.png
+t1297898665
+s536
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Cow3Reversed.png
+t1297898665
+s1466
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Grass.png
+t1297898665
+s2558
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Info.plist
+t1297898664
+s691
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/MainWindow.nib
+t1297898666
+s1561
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/PkgInfo
+t1297898664
+s8
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Saucer1.png
+t1297898665
+s816
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Saucer2.png
+t1297898665
+s826
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/SaucerBankL1.png
+t1297898665
+s3469
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/SaucerBankL2.png
+t1297898665
+s3478
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/SaucerBankR1.png
+t1297898665
+s3535
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/SaucerBankR2.png
+t1297898665
+s3507
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Sky.png
+t1297898665
+s5429
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Tractor1.png
+t1297898665
+s1005
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Tractor2.png
+t1297898665
+s1030
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFO.png
+t1297898665
+s698
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOGameViewController.nib
+t1297898666
+s2255
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOLeaderboardViewController.nib
+t1297898666
+s2110
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOViewController.nib
+t1297898666
+s1924
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs
+t1297898668
+s70352
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/GameCenterManager.o
+t1297898667
+s49536
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOAppDelegate.o
+t1297898667
+s50012
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOGameViewController.o
+t1297898667
+s69584
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOLeaderboardViewController.o
+t1297898667
+s60700
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOViewController.o
+t1297898667
+s55220
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOs.LinkFileList
+c000000004D5C5CA80000000000000335
+t1297898664
+s821
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/main.o
+t1297898667
+s6344
+
+N/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/main.m
+c000000004CF2D004000000000000016C
+t1290981380
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch.gch
+t1297898667
+s15453392
+
+NUFOs-Info.plist
+c000000004D3F49780000000000000401
+t1295993208
+s1025
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319591464#319591464#0(0"0(0#1#0"8657837088#0"0#
+
+CCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/GameCenterManager.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/../GameCenterManager.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319591467.696913
+e319591467.968769
+r1
+xCompileC
+xbuild/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/GameCenterManager.o
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/../GameCenterManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/../GameCenterManager.m319591467#319591467#0(0"0(0#0#77"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/../GameCenterManager.m8649756384#2029"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-generated-files.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-own-target-headers.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-all-target-headers.hmap" -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-project-headers.hmap" "-F/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/include" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources/i386" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources" -include /var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch -c "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/../GameCenterManager.m" -o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/GameCenterManager.o"0#
+
+CCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOAppDelegate.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319591467.694981
+e319591467.942335
+r1
+xCompileC
+xbuild/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOAppDelegate.o
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOAppDelegate.m319591467#319591467#0(0"0(0#0#71"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOAppDelegate.m8655499136#2020"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-generated-files.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-own-target-headers.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-all-target-headers.hmap" -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-project-headers.hmap" "-F/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/include" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources/i386" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources" -include /var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch -c "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOAppDelegate.m" -o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOAppDelegate.o"0#
+
+CCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOGameViewController.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319591467.696261
+e319591467.974618
+r1
+xCompileC
+xbuild/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOGameViewController.o
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.m319591467#319591467#0(0"0(0#0#78"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.m8632250880#2034"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-generated-files.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-own-target-headers.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-all-target-headers.hmap" -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-project-headers.hmap" "-F/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/include" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources/i386" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources" -include /var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch -c "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.m" -o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOGameViewController.o"0#
+
+CCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOLeaderboardViewController.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319591467.697605
+e319591467.956572
+r1
+xCompileC
+xbuild/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOLeaderboardViewController.o
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.m319591467#319591467#0(0"0(0#0#85"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.m8645105376#2048"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-generated-files.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-own-target-headers.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-all-target-headers.hmap" -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-project-headers.hmap" "-F/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/include" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources/i386" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources" -include /var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch -c "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.m" -o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOLeaderboardViewController.o"0#
+
+CCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOViewController.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319591467.695614
+e319591467.955101
+r1
+xCompileC
+xbuild/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOViewController.o
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.m319591467#319591467#0(0"0(0#0#74"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.m8644048320#2026"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-generated-files.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-own-target-headers.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-all-target-headers.hmap" -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-project-headers.hmap" "-F/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/include" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources/i386" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources" -include /var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch -c "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.m" -o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOViewController.o"0#
+
+CCompileC build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/main.o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319591467.694262
+e319591467.941559
+r1
+xCompileC
+xbuild/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/main.o
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/main.m319591467#319591467#0(0"0(0#0#53"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/main.m8667519200#1992"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-generated-files.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-own-target-headers.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-all-target-headers.hmap" -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-project-headers.hmap" "-F/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/include" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources/i386" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources" -include /var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch -c "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/main.m" -o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.xib"
+s319591464.725110
+e319591466.234347
+r1
+xCompileXIB
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.xib
+lSLF07#2@44"CompileXIB Classes/UFOGameViewController.xib319591464#319591466#0(0"0(0#0#80"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.xib8652118464#655"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOGameViewController.nib" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOGameViewController.xib" --sdk "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk"0#
+
+CCompileXIB "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.xib"
+s319591465.201244
+e319591466.183216
+r1
+xCompileXIB
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.xib
+lSLF07#2@51"CompileXIB Classes/UFOLeaderboardViewController.xib319591465#319591466#0(0"0(0#0#87"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.xib8655491840#669"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOLeaderboardViewController.nib" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOLeaderboardViewController.xib" --sdk "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk"0#
+
+CCompileXIB "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.xib"
+s319591464.696479
+e319591466.191149
+r1
+xCompileXIB
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.xib
+lSLF07#2@40"CompileXIB Classes/UFOViewController.xib319591464#319591466#0(0"0(0#0#76"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.xib8655288768#647"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOViewController.nib" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Classes/UFOViewController.xib" --sdk "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk"0#
+
+CCompileXIB "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/MainWindow.xib"
+s319591465.189217
+e319591466.166051
+r1
+xCompileXIB
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319591465#319591466#0(0"0(0#0#61"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/MainWindow.xib8657838432#625"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/usr/bin/ibtool" --errors --warnings --notices --output-format human-readable-text --compile "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/MainWindow.nib" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/MainWindow.xib" --sdk "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Cow1.png "Art Assets/Cow1.png"
+s319591464.725638
+e319591465.081987
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Cow1.png
+xArt Assets/Cow1.png
+lSLF07#2@24"Copy Art Assets/Cow1.png319591464#319591465#0(0"0(0#0#66"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow1.png8648289696#524"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow1.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Cow1Reversed.png "Art Assets/Cow1Reversed.png"
+s319591464.726998
+e319591465.129401
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Cow1Reversed.png
+xArt Assets/Cow1Reversed.png
+lSLF07#2@32"Copy Art Assets/Cow1Reversed.png319591464#319591465#0(0"0(0#0#74"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow1Reversed.png8642820832#532"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow1Reversed.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Cow2.png "Art Assets/Cow2.png"
+s319591464.726089
+e319591465.084958
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Cow2.png
+xArt Assets/Cow2.png
+lSLF07#2@24"Copy Art Assets/Cow2.png319591464#319591465#0(0"0(0#0#66"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow2.png8646071936#524"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow2.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Cow2Reversed.png "Art Assets/Cow2Reversed.png"
+s319591464.727449
+e319591465.128439
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Cow2Reversed.png
+xArt Assets/Cow2Reversed.png
+lSLF07#2@32"Copy Art Assets/Cow2Reversed.png319591464#319591465#0(0"0(0#0#74"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow2Reversed.png8636365856#532"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow2Reversed.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Cow3.png "Art Assets/Cow3.png"
+s319591464.726552
+e319591465.082140
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Cow3.png
+xArt Assets/Cow3.png
+lSLF07#2@24"Copy Art Assets/Cow3.png319591464#319591465#0(0"0(0#0#66"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow3.png8645033632#524"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow3.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Cow3Reversed.png "Art Assets/Cow3Reversed.png"
+s319591464.727897
+e319591465.082273
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Cow3Reversed.png
+xArt Assets/Cow3Reversed.png
+lSLF07#2@32"Copy Art Assets/Cow3Reversed.png319591464#319591465#0(0"0(0#0#74"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow3Reversed.png8634723840#532"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Cow3Reversed.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Grass.png "Art Assets/Grass.png"
+s319591464.728363
+e319591465.082402
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Grass.png
+xArt Assets/Grass.png
+lSLF07#2@25"Copy Art Assets/Grass.png319591464#319591465#0(0"0(0#0#67"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Grass.png8634144512#525"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Grass.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Saucer1.png "Art Assets/Saucer1.png"
+s319591465.082483
+e319591465.187837
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Saucer1.png
+xArt Assets/Saucer1.png
+lSLF07#2@27"Copy Art Assets/Saucer1.png319591465#319591465#0(0"0(0#0#69"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Saucer1.png8654999456#527"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Saucer1.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Saucer2.png "Art Assets/Saucer2.png"
+s319591465.083113
+e319591465.190048
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Saucer2.png
+xArt Assets/Saucer2.png
+lSLF07#2@27"Copy Art Assets/Saucer2.png319591465#319591465#0(0"0(0#0#69"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Saucer2.png8654443296#527"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Saucer2.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/SaucerBankL1.png "Art Assets/SaucerBankL1.png"
+s319591465.083624
+e319591465.208607
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/SaucerBankL1.png
+xArt Assets/SaucerBankL1.png
+lSLF07#2@32"Copy Art Assets/SaucerBankL1.png319591465#319591465#0(0"0(0#0#74"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankL1.png8680340352#532"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankL1.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/SaucerBankL2.png "Art Assets/SaucerBankL2.png"
+s319591465.084256
+e319591465.201146
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/SaucerBankL2.png
+xArt Assets/SaucerBankL2.png
+lSLF07#2@32"Copy Art Assets/SaucerBankL2.png319591465#319591465#0(0"0(0#0#74"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankL2.png8682119616#532"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankL2.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/SaucerBankR1.png "Art Assets/SaucerBankR1.png"
+s319591465.085031
+e319591465.200896
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/SaucerBankR1.png
+xArt Assets/SaucerBankR1.png
+lSLF07#2@32"Copy Art Assets/SaucerBankR1.png319591465#319591465#0(0"0(0#0#74"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankR1.png8681049088#532"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankR1.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/SaucerBankR2.png "Art Assets/SaucerBankR2.png"
+s319591465.128541
+e319591465.208449
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/SaucerBankR2.png
+xArt Assets/SaucerBankR2.png
+lSLF07#2@32"Copy Art Assets/SaucerBankR2.png319591465#319591465#0(0"0(0#0#74"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankR2.png8682144640#532"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/SaucerBankR2.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Sky.png "Art Assets/Sky.png"
+s319591464.728842
+e319591465.031348
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Sky.png
+xArt Assets/Sky.png
+lSLF07#2@23"Copy Art Assets/Sky.png319591464#319591465#0(0"0(0#0#65"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Sky.png8633799008#523"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Sky.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Tractor1.png "Art Assets/Tractor1.png"
+s319591465.129495
+e319591465.208222
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Tractor1.png
+xArt Assets/Tractor1.png
+lSLF07#2@28"Copy Art Assets/Tractor1.png319591465#319591465#0(0"0(0#0#70"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Tractor1.png8668393408#528"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Tractor1.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/Tractor2.png "Art Assets/Tractor2.png"
+s319591465.188454
+e319591465.208810
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/Tractor2.png
+xArt Assets/Tractor2.png
+lSLF07#2@28"Copy Art Assets/Tractor2.png319591465#319591465#0(0"0(0#0#70"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Tractor2.png8663502176#528"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/Tractor2.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CCpResource build/Debug-iphonesimulator/UFOs.app/UFO.png "Art Assets/UFO.png"
+s319591465.031448
+e319591465.188358
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UFOs.app/UFO.png
+xArt Assets/UFO.png
+lSLF07#2@23"Copy Art Assets/UFO.png319591465#319591465#0(0"0(0#0#65"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/UFO.png8655453536#523"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp" -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/Art Assets/UFO.png" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+
+CGenerateDSYMFile "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app.dSYM" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs"
+s319591468.033699
+e319591468.054508
+r1
+xGenerateDSYMFile
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app.dSYM
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/UFOs.app.dSYM build/Debug-iphonesimulator/UFOs.app/UFOs319591468#319591468#0(0"0(0#0#88"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs8657863808#424"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/usr/bin/dsymutil" "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs" -o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app.dSYM"0#
+
+CLd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs" normal i386
+s319591467.974675
+e319591468.033631
+r1
+xLd
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs
+xnormal
+xi386
+lSLF07#2@93"Link /Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs319591467#319591468#0(0"0(0#0#0"8629384544#982"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -arch i386 -isysroot "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk" "-L/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator" "-F/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator" -filelist "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/Objects-normal/i386/UFOs.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/UFOs"0#
+
+CProcessInfoPlistFile "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Info.plist" UFOs-Info.plist
+s319591464.627355
+e319591464.696398
+r1
+xProcessInfoPlistFile
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Info.plist
+xUFOs-Info.plist
+lSLF07#2@23"Process UFOs-Info.plist319591464#319591464#0(0"0(0#0#62"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/UFOs-Info.plist8668398080#512"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UFOs-Info.plist -genpkginfo "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app/Info.plist"0#
+
+CProcessPCH /var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch.gch UFOs_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319591466.234920
+e319591467.694160
+r1
+xProcessPCH
+x/var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch.gch
+xUFOs_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile UFOs_Prefix.pch319591466#319591467#0(0"0(0#0#62"/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/UFOs_Prefix.pch8657777728#1877"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2" -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk" -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-generated-files.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-own-target-headers.hmap" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-all-target-headers.hmap" -iquote "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/UFOs-project-headers.hmap" "-F/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/include" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources/i386" "-I/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/UFOs.build/Debug-iphonesimulator/UFOs.build/DerivedSources" -c "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/UFOs_Prefix.pch" -o /var/folders/14/14WSSCBmHoaQLIyDtJ2g7U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UFOs_Prefix-aranjlqjmfrkavbbwiowmfvstugt/UFOs_Prefix.pch.gch0#
+
+CTouch "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"
+s319591468.054578
+e319591468.057229
+r1
+xTouch
+x/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app
+lSLF07#2@89"Touch /Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app319591468#319591468#0(0"0(0#0#0"8649339776#307"    cd "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3"    setenv PATH "/Developer 3.2.3/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer 3.2.3/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/kyle/Dropbox/Book/Source/UFOs Chapter 3/build/Debug-iphonesimulator/UFOs.app"0#
+

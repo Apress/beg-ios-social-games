@@ -1,0 +1,245 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* UFOs */ = {
+		activeExec = 0;
+		executables = (
+			27BAE36512A307840062BCD7 /* UFOs */,
+		);
+	};
+	2732E8B51305C47200F44C80 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27BAE39712A307A40062BCD7 /* UFOGameViewController.h */;
+		name = "UFOGameViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 823;
+		vrLoc = 0;
+	};
+	2732E9271308713C00F44C80 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27BAE39512A307A40062BCD7 /* UFOViewController.m */;
+		name = "UFOViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 795;
+		vrLoc = 0;
+	};
+	2732E9281308713C00F44C80 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27BAE39812A307A40062BCD7 /* UFOGameViewController.m */;
+		name = "UFOGameViewController.m: 275";
+		rLen = 0;
+		rLoc = 7032;
+		rType = 0;
+		vrLen = 1057;
+		vrLoc = 6491;
+	};
+	2732E9291308713C00F44C80 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27BAE39812A307A40062BCD7 /* UFOGameViewController.m */;
+		name = "UFOGameViewController.m: 59";
+		rLen = 221;
+		rLoc = 1420;
+		rType = 0;
+		vrLen = 1692;
+		vrLoc = 572;
+	};
+	27714B4312A58D18000AC248 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27BAE39412A307A40062BCD7 /* UFOViewController.h */;
+		name = "UFOViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 279;
+		vrLoc = 0;
+	};
+	27BAE36512A307840062BCD7 /* UFOs */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UFOs;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	27BAE38F12A307900062BCD7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	27BAE39012A307900062BCD7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	27BAE39212A307A40062BCD7 /* UFOAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1953, 902}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 483}";
+		};
+	};
+	27BAE39312A307A40062BCD7 /* UFOAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1953, 902}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 842}";
+		};
+	};
+	27BAE39412A307A40062BCD7 /* UFOViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1953, 896}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 279}";
+		};
+	};
+	27BAE39512A307A40062BCD7 /* UFOViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1953, 872}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 795}";
+		};
+	};
+	27BAE39712A307A40062BCD7 /* UFOGameViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1953, 878}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 823}";
+		};
+	};
+	27BAE39812A307A40062BCD7 /* UFOGameViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1953, 4912}}";
+			sepNavSelRange = "{1420, 221}";
+			sepNavVisRange = "{572, 1692}";
+		};
+	};
+	27BAE3B012A307AD0062BCD7 /* Tractor2.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 514}, {1400, 878}}";
+		};
+	};
+	27BAE40112A309F10062BCD7 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* UFOs-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/kyle/Desktop/Source Code/Active/UFOs/UFOs-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	27BAE40212A309F10062BCD7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27BAE39212A307A40062BCD7 /* UFOAppDelegate.h */;
+		name = "UFOAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 483;
+		vrLoc = 0;
+	};
+	27BAE40312A309F10062BCD7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 27BAE39312A307A40062BCD7 /* UFOAppDelegate.m */;
+		name = "UFOAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 842;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 27BAE36512A307840062BCD7 /* UFOs */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UFOs */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* UFOs */,
+		);
+		codeSenseManager = 27BAE39012A307900062BCD7 /* Code sense */;
+		executables = (
+			27BAE36512A307840062BCD7 /* UFOs */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1775,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					1789,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319320363;
+			PBXWorkspaceStateSaveDate = 319320363;
+		};
+		perUserProjectItems = {
+			2732E8B51305C47200F44C80 /* PBXTextBookmark */ = 2732E8B51305C47200F44C80 /* PBXTextBookmark */;
+			2732E9271308713C00F44C80 /* PBXTextBookmark */ = 2732E9271308713C00F44C80 /* PBXTextBookmark */;
+			2732E9281308713C00F44C80 /* PBXTextBookmark */ = 2732E9281308713C00F44C80 /* PBXTextBookmark */;
+			2732E9291308713C00F44C80 /* PBXTextBookmark */ = 2732E9291308713C00F44C80 /* PBXTextBookmark */;
+			27714B4312A58D18000AC248 /* PBXTextBookmark */ = 27714B4312A58D18000AC248 /* PBXTextBookmark */;
+			27BAE40112A309F10062BCD7 /* PlistBookmark */ = 27BAE40112A309F10062BCD7 /* PlistBookmark */;
+			27BAE40212A309F10062BCD7 /* PBXTextBookmark */ = 27BAE40212A309F10062BCD7 /* PBXTextBookmark */;
+			27BAE40312A309F10062BCD7 /* PBXTextBookmark */ = 27BAE40312A309F10062BCD7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 27BAE38F12A307900062BCD7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}
